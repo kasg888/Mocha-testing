@@ -1,0 +1,7 @@
+SCRIPTS
+key - value(mocha filelocation/filename.js)
+if value(mocha) only add filelocation/filename.js in terminal run
+
+HOW TO run
+test only - npm run SCRIPTS
+test with report - npx mocha --spec filelocation/filename.js --reporter mochawesome
