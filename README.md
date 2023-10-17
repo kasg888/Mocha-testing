@@ -13,5 +13,9 @@ npm install
 ```
 4. Run mocha test 
 ```
-npm run test {path/to/file}.js
+npm run test filelocation/filename.js
+```
+5. Run mocha test with report
+```
+npx mocha --spec filelocation/filename.js --reporter mochawesome
 ```
