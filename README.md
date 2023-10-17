@@ -1,7 +1,12 @@
-# Mocha-testing
-Learning to do automation test using mocha
+# Tool & Technology Stack
+- JavaScript (nodeJs)
+- Mocha
+- Mochawesome
+- Chai
+- Supertest
+- VS Code
 
-To run this repo
+# To run this repo
 1. Clone this repository
 ```
 git clone https://github.com/alvintrianto/myskill-api-test.git
